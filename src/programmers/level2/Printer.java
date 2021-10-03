@@ -1,6 +1,6 @@
 //프로그래머스 level2 스택/큐 프린터
 
-package programmers;
+package programmers.level2;
 
 import java.util.Comparator;
 import java.util.LinkedList;

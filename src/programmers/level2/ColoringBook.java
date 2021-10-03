@@ -1,6 +1,6 @@
 // 프로그래머스 level2 카카오프렌즈 컬러링북
 
-package programmers;
+package programmers.level2;
 
 public class ColoringBook {
     public int[] solution(int m, int n, int[][] picture) {

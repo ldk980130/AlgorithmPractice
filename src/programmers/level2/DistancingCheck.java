@@ -1,5 +1,5 @@
 //프로그래머스 level2 거리두기 확인하기
-package programmers;
+package programmers.level2;
 
 import java.util.Arrays;
 import java.util.LinkedList;

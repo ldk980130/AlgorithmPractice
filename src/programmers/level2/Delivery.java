@@ -1,6 +1,6 @@
 //프로그래머스 level2 배달
 
-package programmers;
+package programmers.level2;
 
 import java.util.*;
 

@@ -1,5 +1,5 @@
 //프로그래머스 level2 문자열 압축
-package programmers;
+package programmers.level2;
 
 public class StringCompression {
 

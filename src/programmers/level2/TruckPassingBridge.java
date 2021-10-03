@@ -1,6 +1,6 @@
 // 프로그래머스 level2 다리를 지나는 트럭
 
-package programmers;
+package programmers.level2;
 
 import java.util.Iterator;
 import java.util.LinkedList;

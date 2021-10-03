@@ -1,6 +1,6 @@
 // 프로그래머스 level2 카카오프렌즈 단체 사진 찍기
 
-package programmers;
+package programmers.level2;
 
 public class GroupPhoto {
 

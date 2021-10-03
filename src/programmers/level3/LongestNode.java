@@ -1,5 +1,5 @@
 //프로그래머스 level3 가장 먼 노드
-package programmers;
+package programmers.level3;
 
 
 import java.util.*;

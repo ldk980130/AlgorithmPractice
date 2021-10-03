@@ -1,5 +1,5 @@
 // 프로그래머스 level3 N으로 표현
-package programmers;
+package programmers.level3;
 
 import java.util.LinkedList;
 import java.util.Queue;

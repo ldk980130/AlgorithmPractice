@@ -1,6 +1,6 @@
 // 프로그래머스 level2 행렬 테두리 회전하기
 
-package programmers;
+package programmers.level2;
 
 public class RotatingBorderOfMatrix {
 

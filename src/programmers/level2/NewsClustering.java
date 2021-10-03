@@ -1,6 +1,6 @@
 // 프로그래머스 [1차] 뉴스 클러스터링
 
-package programmers;
+package programmers.level2;
 
 import java.util.Iterator;
 import java.util.LinkedList;

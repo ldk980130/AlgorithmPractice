@@ -1,6 +1,6 @@
 // 프로그래머스 level2 위장
 
-package programmers;
+package programmers.level2;
 
 import java.util.ArrayList;
 import java.util.HashMap;
